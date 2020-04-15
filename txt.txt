@@ -1,2 +1,6 @@
 Hola master
+<<<<<<< HEAD
 Hola master
+=======
+Hola Branch1
+>>>>>>> branch1
